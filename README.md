@@ -20,7 +20,7 @@ Open `lib/dog.rb` and add a class definition for a `Dog` class.
 
 ### 2. Make 3 dogs in `lib/dog.rb`
 
-Under you `Dog` class definition, create three dogs in local variables, `fido`, `snoopy`, and `lassie`.
+Under your `Dog` class definition, create three dogs in local variables, `fido`, `snoopy`, and `lassie`.
 
 ### 3. Define a `Person` in `lib/person.rb`
 
