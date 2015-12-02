@@ -31,3 +31,5 @@ Open `lib/person.rb` and add a class definition for a `Person` class.
 Under your `Person` class definition, create two people in local variables, `adele_goldberg` and `alan_kay`
 
 When you're done, submit the lab with `learn submit`.
+
+<a href='https://learn.co/lessons/classes-and-instances-lab-ruby' data-visibility='hidden'>View this lesson on Learn.co</a>
