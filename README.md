@@ -32,4 +32,4 @@ Under your `Person` class definition, create two people in local variables, `ade
 
 When you're done, submit the lab with `learn submit`.
 
-<a href='https://learn.co/lessons/classes-and-instances-lab-ruby' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/classes-and-instances-lab-ruby' title='Classes And Instances Lab Ruby'>Classes And Instances Lab Ruby</a> on Learn.co and start learning to code for free.</p>
