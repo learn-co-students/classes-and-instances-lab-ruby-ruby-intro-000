@@ -1,7 +1,7 @@
 class Person
-  f_pName = 'adele_goldberg'
 end
 
-class Person
-  s_pName = 'alan_kay'
-end 
+adele_goldberg = Person.new
+
+
+ alan_kay= Person.new
